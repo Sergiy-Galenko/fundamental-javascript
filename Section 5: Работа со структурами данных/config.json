@@ -1,0 +1,8 @@
+{
+    "firstName" : "Sergiy Halenko",
+    "age":19,
+    "skils": ["CSS"],
+    "language":{
+        "key":"velue"
+    }
+}
